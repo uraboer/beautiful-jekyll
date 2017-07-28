@@ -17,18 +17,19 @@ baseurl: ""
 title: 伪文艺青年的技术基地
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "http://uraboer.github.io"
+  Archive: 
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://freecodecamp.cn/home"
+    - Packtpub free : "https://www.packtpub.com/packt/offers/free-learning"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +44,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: -ABOER-
+  name: Huang Ying
   email: "uraboer@gmail.com"
   facebook: yourname  # eg. daattali
   github: uraboer    # eg. daattali
@@ -112,7 +113,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
