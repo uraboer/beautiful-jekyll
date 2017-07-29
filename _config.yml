@@ -14,26 +14,26 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 伪文艺青年的技术基地
+title: 文艺青年的技术基地
 
 # Short description of your site
-description: ""
+#description: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Home: "http://uraboer.github.io"
-  Archive: 
+  Archive: "archive"
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://freecodecamp.cn/home"
+    - Freecodecamp : "https://freecodecamp.cn/home"
     - Packtpub free : "https://www.packtpub.com/packt/offers/free-learning"
     - Learn markdown: "http://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/captain-icon.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -63,9 +63,9 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -81,7 +81,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
