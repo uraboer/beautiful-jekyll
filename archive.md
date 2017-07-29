@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 subtitle: Some notes of learning
+bigimg: /img/mountain.jpg
 ---
 
 ### R
