@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 文艺青年的技术基地
+title: 伪文艺青年的技术基地
 
 # Short description of your site
 description: ""
@@ -45,7 +45,7 @@ avatar: "/img/captain-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Huang Ying
-  email: "uraboer@gmail.com"
+  email: "uraboer@qq.com"
   facebook: yourname  # eg. daattali
   github: uraboer    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -71,7 +71,7 @@ footer-links-active:
   reddit: false
   linkedin: false
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
