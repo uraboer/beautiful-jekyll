@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About me
 subtitle: 初出茅庐技术宅|折腾一切新技术|立志成为数据全栈玩家
 bigimg: /img/sea.jpg
