@@ -1,7 +1,8 @@
 ---
 layout: post
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 初出茅庐技术宅|折腾一切新技术|立志成为数据全栈玩家
+bigimg: /img/sea.jpg
 ---
 
 My name is Inigo Montoya. I have the following qualities:
