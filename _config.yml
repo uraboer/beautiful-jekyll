@@ -17,7 +17,7 @@ baseurl: ""
 title: D.A.的文艺基地
 
 # Short description of your site
-description: ""
+# description: ""
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   Archive: "archive"
   About Me: "aboutme"
   Resources:
-    - Freecodecamp : "https://freecodecamp.cn/home"
+    - Freecode camp : "https://freecodecamp.cn/home"
     - Packtpub free : "https://www.packtpub.com/packt/offers/free-learning"
     - Learn markdown: "http://www.markdowntutorial.com/"
 
@@ -58,7 +58,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: 18810600277   # eg. +14159998888
+  telephone: telephone   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
@@ -87,7 +87,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -137,7 +137,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
