@@ -5,14 +5,17 @@ subtitle: Some notes of learning
 bigimg: /img/mountain.jpg
 ---
 
-### R
+## R
+*learning from R package/structure/blog...*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* [dplyr]
+* [stringr]
+* ...
 
-What else do you need?
 
-### Python
+## Python
+*learning from crawler/pandas/numpy...*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* [crawler]
+* [pandas]
+* [numpy]
