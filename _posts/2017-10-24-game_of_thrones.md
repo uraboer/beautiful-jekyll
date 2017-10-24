@@ -9,15 +9,22 @@ bigimg: /img/path.jpg
 
 ### 情绪分析(emotional analysis)和情感分析(sentiment analysis)
 情感分析的结果一般分为正向(positive)和负向(negative)，而情绪分析包含的种类就比较多。加拿大国家研究委员会(National Research Council of Canada)官方发布的情绪词典包含了8种：
-1.愤怒(anger)
-2.期待(anticipation)
-3.厌恶(disgust)
-4.恐惧(fear)
-5.喜悦(joy)
-6.悲伤(sadness)
-7.惊讶(surprise)
-8.信任(trust)
 
+1.愤怒(anger)
+
+2.期待(anticipation)
+
+3.厌恶(disgust)
+
+4.恐惧(fear)
+
+5.喜悦(joy)
+
+6.悲伤(sadness)
+
+7.惊讶(surprise)
+
+8.信任(trust)
 
 
 ### 准备
@@ -220,9 +227,11 @@ tidy_script %>%
 ```
 
 ### 收获
-1.如何对网络摘取的文本做处理，从中找出正文，并且去掉空行等内容
-2.如何利用tidytext方式来处理情感分析与情绪分析
-3.如何设置自己的停用词表
-4.如何用ggplot绘制多维度切面图形
 
----------------------------------------- end ----------------------------------------
+1.如何对网络摘取的文本做处理，从中找出正文，并且去掉空行等内容
+
+2.如何利用tidytext方式来处理情感分析与情绪分析
+
+3.如何设置自己的停用词表
+
+4.如何用ggplot绘制多维度切面图形
