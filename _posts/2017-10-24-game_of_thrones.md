@@ -1,30 +1,23 @@
 ---
 layout: post
 title: 如何用R对《权利的游戏》故事情节做情绪分析？
-subtitle: 学习同名微信公众号文章，并对python部分做了修改，统一采用R实现
+subtitle: 对原文python部分做了修改，统一采用R实现
 bigimg: /img/path.jpg
 ---
 
-> learn from:https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247489031&idx=3&sn=d98b64b7ed1c171baa1c058fe10740df&chksm=e99d25fedeeaace89c67097fb6602f1115e7c4b4eaba078b21bc404c7e49f1963b4fd0b67d8d&mpshare=1&scene=1&srcid=0913IUotqk7ob0sPHpRPybm2#rd
+> learn from:[如何用R对《权利的游戏》故事情节做情绪分析？](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247489031&idx=3&sn=d98b64b7ed1c171baa1c058fe10740df&chksm=e99d25fedeeaace89c67097fb6602f1115e7c4b4eaba078b21bc404c7e49f1963b4fd0b67d8d&mpshare=1&scene=1&srcid=0913IUotqk7ob0sPHpRPybm2#rd)
 
 ### 情绪分析(emotional analysis)和情感分析(sentiment analysis)
 情感分析的结果一般分为正向(positive)和负向(negative)，而情绪分析包含的种类就比较多。加拿大国家研究委员会(National Research Council of Canada)官方发布的情绪词典包含了8种：
 
-1.愤怒(anger)
-
-2.期待(anticipation)
-
-3.厌恶(disgust)
-
-4.恐惧(fear)
-
-5.喜悦(joy)
-
-6.悲伤(sadness)
-
-7.惊讶(surprise)
-
-8.信任(trust)
+1. 愤怒(anger)
+2. 期待(anticipation)
+3. 厌恶(disgust)
+4. 恐惧(fear)
+5. 喜悦(joy)
+6. 悲伤(sadness)
+7. 惊讶(surprise)
+8. 信任(trust)
 
 
 ### 准备
@@ -33,8 +26,8 @@ bigimg: /img/path.jpg
 
 ### 清理
 - 任务：
-1.把与剧情正文无关的内容去除
-2.将数据转换成R可以直接做情绪分析的结构化数据格式
+1. 把与剧情正文无关的内容去除
+2. 将数据转换成R可以直接做情绪分析的结构化数据格式
 
 - 数据读入
 
