@@ -18,7 +18,7 @@
 
 直觉：使用变量来追踪进位，并从包含最低有效位的表头开始模拟逐位相加的过程
 
-![2_two_sum_01] (http://uraboer.github.io/img/LeetCode_2_two_sum_01.png)
+![2_two_sum_01] (https://uraboer.github.io/img/LeetCode_2_two_sum_01.png)
 
 
 
