@@ -18,7 +18,7 @@
 
 直觉：使用变量来追踪进位，并从包含最低有效位的表头开始模拟逐位相加的过程
 
-![2_two_sum_01] (https://uraboer.github.io/img/LeetCode_2_two_sum_01.png)
+[2_two_sum_01] (https://github.com/uraboer/uraboer.github.io/tree/master/img/LeetCode_2_two_sum_01.png)
 
 
 
@@ -54,8 +54,6 @@
 | I1=[9,9]  I2=[1]     | 求和运算最后可能出现额外的进位，这一点很容易被遗忘 |
 
 
-
-
 ```java
 public ListNode addTwoNumbers(ListNode l1, ListNode L2){
     ListNode dummyHead = new ListNode(0):
@@ -82,8 +80,6 @@ public ListNode addTwoNumbers(ListNode l1, ListNode L2){
 
 - 时间复杂度：O(max(m,n))，假设 m 和 n 分别表示 l1 和 l2 的长度，上面的算法最多重复 max(m,n) 次
 - 空间复杂度：O(max(m,n))，新列表的长度最多为 max(m,n)+1
-
-
 
 
 ```python
