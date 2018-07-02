@@ -18,7 +18,7 @@
 
 直觉：使用变量来追踪进位，并从包含最低有效位的表头开始模拟逐位相加的过程
 
-[2_two_sum_01] (https://github.com/uraboer/uraboer.github.io/tree/master/img/LeetCode_2_two_sum_01.png)
+![LeetCode_2_two_sum_01](E:\workspace_r\uraboer.github.io\img\LeetCode_2_two_sum_01.png)
 
 
 
@@ -52,6 +52,7 @@
 | I1=[0,1]  I2=[0,1,2] | 当一个列表比另一个列表长时                         |
 | I1=[]  I2=[0,1]      | 当一个列表为空时，即出现空列表                     |
 | I1=[9,9]  I2=[1]     | 求和运算最后可能出现额外的进位，这一点很容易被遗忘 |
+------
 
 
 ```java
