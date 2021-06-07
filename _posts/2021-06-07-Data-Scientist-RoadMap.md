@@ -5,4 +5,4 @@ image:
 tags: [random, exciting-stuff]
 ---
 
-[/img/data_science_roadmap.jpg]
+(/img/data_science_roadmap.jpg)
