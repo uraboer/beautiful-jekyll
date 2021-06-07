@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Data Scientist RoadMap
-image: /img/data_science_roadmap.jpg
+image: 
 tags: [random, exciting-stuff]
 ---
+
+[/img/data_science_roadmap.jpg]
